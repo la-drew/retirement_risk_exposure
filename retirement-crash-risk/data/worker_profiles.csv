@@ -1,0 +1,5 @@
+age,label,salary,start_balance,equity_weight,employee_contribution,employer_match
+25,Early career,70000,25000,0.90,0.10,0.04
+40,Mid career,95000,150000,0.80,0.10,0.04
+55,Late career,115000,500000,0.60,0.10,0.04
+64,Near retirement,125000,900000,0.40,0.10,0.04

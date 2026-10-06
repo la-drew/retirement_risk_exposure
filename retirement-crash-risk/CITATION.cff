@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Retirement Crash Risk
+message: If you use this project, please cite the repository.
+type: software
+version: 0.1.0
+date-released: 2026-10-06
+license: MIT
